@@ -1,5 +1,5 @@
 # Food Ordering App 🍣
-## [Live Demo](https://sushi-ordering-app-9224b.web.app/)
+## [KA Suchi - Live Demo](https://sushi-ordering-app-9224b.web.app/)
 
 A Complete ordering process website 📱 built to demonstrate the use of React components, React hooks, Cart data, Form Validation, Error handling and real UX.
 
