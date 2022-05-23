@@ -1,7 +1,7 @@
 # Food Ordering App 🍣
 ## [Live Demo](https://sushi-ordering-app-9224b.web.app/)
 
-A Complete ordering process app 📱 built to demonstrate the use of React components, React hooks, Cart data, Form Validation, Error handling and real UX.
+A Complete ordering process website 📱 built to demonstrate the use of React components, React hooks, Cart data, Form Validation, Error handling and real UX.
 
 
 This app was build with the intention of providing a clean and simple responsive web app for choosing 
